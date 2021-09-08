@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubApiMVVMExampleWithRxJavaRetrofit</string>
+    <string name="network_error">Please check your internet connection and try again</string>
+</resources>
